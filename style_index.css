@@ -1,0 +1,54 @@
+.flex-container-header
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-right: 8px;
+    margin-left: 8px;
+}
+.meno
+{
+    font-family: 'Brush Script MT', cursive;
+    font-size: 250%;
+}
+body
+{
+    background-color: grey;
+    margin: 0;
+}
+header
+{
+    background-color: #4d4d4d;
+}
+.flex-container-nav
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-right: 8px;
+    margin-left: 8px;
+}
+nav
+{
+    background-color: #4d4d4d;
+    border-bottom: 3px solid black;
+}
+article
+{
+    border-bottom: 3px solid black;
+}
+footer
+{
+    background-color: #4d4d4d;
+    margin: 0px;
+}
+.licence
+{
+    text-align: center;
+    margin: 0px;
+}
+.obsah
+{
+    margin-right: 8px;
+    margin-left: 8px;
+}
