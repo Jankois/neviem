@@ -1,8 +1,8 @@
 .flex-container-header
 {
     display: flex;
-    flex-direction: row;
     justify-content: space-between;
+    flex-direction: row;
     margin-right: 8px;
     margin-left: 8px;
 }
@@ -23,8 +23,8 @@ header
 .flex-container-nav
 {
     display: flex;
-    flex-direction: row;
     justify-content: space-between;
+    flex-direction: row;
     margin-right: 8px;
     margin-left: 8px;
 }
@@ -51,4 +51,13 @@ footer
 {
     margin-right: 8px;
     margin-left: 8px;
+}
+.flex-container-article
+{
+    display: flex;
+}
+.fotka
+{
+    margin: 8px;
+    border-radius: 50%;
 }
