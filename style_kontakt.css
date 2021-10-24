@@ -60,6 +60,7 @@ footer
 .flex-container-fotka-media
 {
     display: flex;
+    justify-content: space-around;
 }
 .flex-container-media
 {
